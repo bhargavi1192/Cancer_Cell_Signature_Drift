@@ -1,6 +1,6 @@
 # 🔬 Signature Drift in Cancer Cells
 
-This beginner-level bioinformatics project analyzes how gene expression "drifts" in cancerous vs. normal lung cells using PCA (Principal Component Analysis) and t-tests.
+This Bioinformatics project analyzes how gene expression "drifts" in cancerous vs. normal lung cells using PCA (Principal Component Analysis) and t-tests.
 
 ## 🧪 Tools Used
 - Google Colab
